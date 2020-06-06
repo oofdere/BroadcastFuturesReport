@@ -1,4 +1,6 @@
 # The impact of AI on broadcasting
+#### by Tibet Tornaci
+[teogr0123@live.com](mailto:teogr0123@live.com)
 
 ## Introduction
 Creating video used to be prohibitively expensive, requiring specialized equipment and a dedicated team. This changed in 1987, when NewTek announced the Video Toaster, a linear video editor that cost less than $5000 to set up, with all you need being a VCR, Commodore Amiga, and of course, the Video Toaster hardware. Around the same time, the Avid/1 Media Composer was released, bringing non-linear video editing to the masses. Ever since then, the process had been getting more automated and streamlined, as well as becoming more and more accessible. And now, of course, NLEs are commonplace and tools like OBS Studio and the ATEM Mini have made live switching more feasible than ever.
@@ -9,6 +11,7 @@ Feel free to [skip around](#table-of-contents).
 
 ## Table of Contents
 - [The impact of AI on broadcasting](#the-impact-of-ai-on-broadcasting)
+      - [by Tibet Tornaci](#by-tibet-tornaci)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [A couple of technologies.](#a-couple-of-technologies)
@@ -147,3 +150,6 @@ Change is coming. It's already begun. Sure, it is somewhat unwieldy today, but g
 But I think we've also seen that AI will not replace humans any time soon and instead simply open up new possibilities and probably even new jobs.
 
 But really, this is just predicting the future, and the best thing to do is to start messing around with these tools and see what you can make with them. [Do things.](#feasibility)
+
+---
+<p>&copy 2020 Tibet Tornaci. All rights reserved.</p>
