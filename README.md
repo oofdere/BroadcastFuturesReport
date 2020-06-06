@@ -102,4 +102,13 @@ Of the above, the following are end-user friendly(-ish):
  - And a [huge list](https://github.com/tugstugi/dl-colab-notebooks) of other Colab notebooks.
 
 ## Bad Actors
+So, turns out that this technology is actually pretty accessible. And clearly some of this technology can be used for evil.
 
+All technology has always been a double edged sword. Sure, it'll help people, but it will also invariably hurt some of them.
+
+However, holding this research back from the public does not help anyone. It just means that the bad people will have to implement it themselves is all. It wouldn't stop them.
+
+What does help is having these tools be as accessible as possible, so people know what could be done with them and so that all researchers and programmers can take a look at them to figure out how we can make sure that bad actors cannot exploit these systems:
+ - We can make DeepFakes, but [we can also detect them](https://www.youtube.com/watch?v=RoGHVI-w9bE). (they also have very obvious artifacts if you know where to look)
+ - We can fake voices but [they can be detected](https://github.com/dessa-oss/fake-voice-detection).
+ - We can generate fake news, but [we can also detect it](https://huggingface.co/openai-detector). ([detailed article](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/))
