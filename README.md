@@ -152,4 +152,4 @@ But I think we've also seen that AI will not replace humans any time soon and in
 But really, this is just predicting the future, and the best thing to do is to start messing around with these tools and see what you can make with them. [Do things.](#feasibility)
 
 ---
-<p>&copy 2020 Tibet Tornaci. All rights reserved.</p>
+© 2020 Tibet Tornaci. All rights reserved.
