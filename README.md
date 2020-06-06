@@ -48,6 +48,7 @@ You'd need to add detail that was never in the original source to begin with.
 But what if you *could* do just that? So far, attempts to do so have been dodgy at best:
 
 ![via the [matplotlib documentation](https://matplotlib.org/gallery/images_contours_and_fields/interpolation_methods.html)](interpolation.webp)
+via the [matplotlib documentation](https://matplotlib.org/gallery/images_contours_and_fields/interpolation_methods.html)
 
 Not anymore though, thanks to advances in artificial intelligence/deep learning:
 
@@ -56,6 +57,7 @@ Not anymore though, thanks to advances in artificial intelligence/deep learning:
 ![via [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN)](esrgan1.jpg)
 
 ![via [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN)](esrgan2.jpg)
+via [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN)
 
 Of course, nothing stops these same methods from being used on being used when remastering and especially colorizing film:
 <video controls="" src="http://iizuka.cs.tsukuba.ac.jp/projects/remastering/data/remastering_siggraphasia2019.mp4" width="512"></video>
@@ -63,6 +65,7 @@ Of course, nothing stops these same methods from being used on being used when r
 Another recent development is real-time upscalers, which, as the name suggests, upscale video (or other graphics) as they're being played.
 
 ![via [bloc97/Anime4K](https://github.com/bloc97/Anime4K/)](anime4k.png)
+via [bloc97/Anime4K](https://github.com/bloc97/Anime4K/
 
 Here's an explanation and demo from NVIDIA about their DLSS upscaling technology, which upscales games in real-time in the same exact way you would video:
 
@@ -78,6 +81,7 @@ adapted from [minyuanye/SIUN](https://github.com/minyuanye/SIUN)
 ### Style Transfer
 This is by far the coolest one, allowing you to turn video into paintings with just one (sometimes more) keyframe(s). No amount of human work can do this.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SLDJab9E70g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Of course, there's no reason the keyframes can't be [drawn by AI](https://github.com/Yijunmaverick/UniversalStyleTransfer).
 
 ## Feasibility
