@@ -3,7 +3,7 @@
 ## Introduction
 Creating video used to be prohibitively expensive, requiring specialized equipment and a dedicated team. This changed in 1987, when NewTek announced the Video Toaster, a linear video editor that cost less than $5000 to set up, with all you need being a VCR, Commodore Amiga, and of course, the Video Toaster hardware. Around the same time, the Avid/1 Media Composer was released, bringing non-linear video editing to the masses. Ever since then, the process had been getting more automated and streamlined, as well as becoming more and more accessible. And now, of course, NLEs are commonplace and tools like OBS Studio and the ATEM Mini have made live switching more feasible than ever.
 
-So clearly, there is a trend of broadcasting technologies becoming cheaper and more accessible over time. But what's next in broadcasting? What new technologies are in the horizon?
+So clearly, there is a trend of broadcasting technologies becoming cheaper and more accessible over time. But what's next in broadcasting? What new technologies are in the horizon? Will they make a difference?
 
 Feel free to [skip around](#table-of-contents).
 
@@ -19,6 +19,8 @@ Feel free to [skip around](#table-of-contents).
     - [Style Transfer](#style-transfer)
   - [Feasibility](#feasibility)
   - [Bad Actors](#bad-actors)
+  - [Impact](#impact)
+  - [Conclusion](#conclusion)
 
 ## A couple of technologies.
 Let's start by taking a look at what AI can do with video.
@@ -91,7 +93,7 @@ Everything mentioned above is open source software, which means that all you nee
  - A modern CPU.
  - Lots of RAM. (at least 16GB)
  - Lots of storage.
- - A modern Nvidia graphics card.
+ - A modern Nvidia graphics card. (4GB+)
 
 Except you don't even need any of that. You can just rent a server by the hour, or even use [the free ones Google is giving away](https://colab.research.google.com/notebooks/intro.ipynb). Or [the other free ones Google is giving away](https://colab.research.google.com/notebooks/intro.ipynb).
 
@@ -116,3 +118,32 @@ What does help is having these tools be as accessible as possible, so people kno
  - We can make DeepFakes, but [we can also detect them](https://www.youtube.com/watch?v=RoGHVI-w9bE). (they also have very obvious artifacts if you know where to look)
  - We can fake voices but [they can be detected](https://github.com/dessa-oss/fake-voice-detection).
  - We can generate fake news, but [we can also detect it](https://huggingface.co/openai-detector). ([detailed article](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/))
+
+## Impact
+I think by now that it's pretty obvious that AI will make an impact on broadcasting as well as media in general. But how much, and when?
+
+Well, it already has.
+
+![](maturity.png)
+
+Levels of maturity:
+1. DeepFakes go viral.
+2. All of the other methods mentioned above are made and refined.
+3. AI is in use by end-users.
+
+So, it's safe to say that we're probably around halfway through L3 now, though you probably never even noticed.
+
+![](iabm1.png)
+![](iabm2.png)
+<br>via the [IABM Media Tech Trends - Artificial Intelligence](https://theiabm.org/media-tech-trends-artificial-intelligence-2019/) report, October 2019
+
+As you can see, AI in broadcasting is currently mostly used for media management tasks right now, such as logging and adding metadata to video without any human input and to automatically pick out highlights.
+
+This is followed by production, which includes the methods discussed in this paper and amy others, and publishing, which is nothing new, as encoding, decoding, network optimization, etc. are fields where AI is so ubiquitous that no one calls it AI, seeing as it's been a thing for decades.
+
+## Conclusion
+Change is coming. It's already begun. Sure, it is somewhat unwieldy today, but give it a year or two.
+
+But I think we've also seen that AI will not replace humans any time soon and instead simply open up new possibilities and probably even new jobs.
+
+But really, this is just predicting the future, and the best thing to do is to start messing around with these tools and see what you can make with them. [Do things.](#feasibility)
